@@ -1,2 +1,0 @@
-# graphqlByExample
-Created with CodeSandbox
